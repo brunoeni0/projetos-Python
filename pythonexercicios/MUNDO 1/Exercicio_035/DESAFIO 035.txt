@@ -1,0 +1,11 @@
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+r1____
+r2________
+r3______
+
+-------------------------
+
+r1_
+r2_____
+r3___________
