@@ -1,0 +1,8 @@
+Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+	  ________
+	0|__|__|__|
+	1|__|__|__|
+	2|__|__|__|
+	  0  1  2
+
+No final,mostre a matriz na tela,com a formatação correta.

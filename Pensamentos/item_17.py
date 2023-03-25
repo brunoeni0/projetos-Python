@@ -1,0 +1,7 @@
+minutos = int(input('Quantos minutos você tem de vida? '))
+hora = int(input('Quantas horas você tem de vida? '))
+dias = int(input('Quantos dias você tem de vida? '))
+meses = int(input('Quantos meses você tem de vida? '))
+anos = int(input('Quantos anos você tem de vida? '))
+segundos = (((((minutos * 60) * hora) * dias) * meses) * anos)
+print(f'Você tem {segundos} de vida!')
